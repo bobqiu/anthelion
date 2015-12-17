@@ -46,8 +46,6 @@ public class AnthBandit implements Runnable {
 	 * 
 	 * @param lambda
 	 *            percentage of random selections
-	 * @param domainValueFunction
-	 *            function to calculate the value of a domain
 	 * @param minKnownDomains
 	 *            minimum number of known domains till bandit start with
 	 *            selection
